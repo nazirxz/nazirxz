@@ -8,6 +8,4 @@ Skills: HTML / CSS / Kotlin
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazirxz&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nazirxz)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nazirxz)  
