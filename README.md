@@ -6,8 +6,6 @@ An independent self-learner who loves to create and share projects about mobile 
 
 Skills: HTML / CSS / Kotlin 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazirxz)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazirxz&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nazirxz)  
