@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Nazirman
-#### I am GitHub Readme Generator's creator
+### Hi there 👋
+My name is Nazirman
 ![I am GitHub Readme Generator's creator](https://github.com/nazirxz/nazirxz/blob/main/banner.png)
 
 An independent self-learner who loves to create and share projects about mobile technology!
