@@ -4,8 +4,6 @@
 My name is Nazirman
 An independent self-learner who loves to create and share projects about mobile technology!
 
-Skills: HTML / CSS / Kotlin 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazirxz&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nazirxz)  
