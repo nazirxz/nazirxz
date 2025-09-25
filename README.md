@@ -1,20 +1,21 @@
-# 👋 Halo, Saya Nazirman!
+# 👋 Hello, I'm Nazirman!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Mobile+Technology+Enthusiast;Self-Learner+%26+Creator;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=AI+Engineer;Mobile+Developer;Web+Developer;Backend+Developer" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 Tentang Saya
+## 🚀 About Me
 
-Saya adalah **pembelajar mandiri** yang passionate dalam dunia teknologi mobile! Saya suka menciptakan dan berbagi proyek-proyek menarik yang berhubungan dengan teknologi mobile.
+I am a passionate and versatile developer with a strong background in **Artificial Intelligence**. I also have experience as a Mobile, Web, and Backend Developer. I enjoy building intelligent systems and creating interesting projects.
 
 ```javascript
 const nazirman = {
-    role: "Mobile Technology Enthusiast",
+    primaryRole: "AI Engineer",
+    skills: ["AI", "Mobile Development", "Web Development", "Backend Development"],
     learning: "Always",
-    passion: ["Mobile Development", "Open Source", "Innovation"],
+    passion: ["Artificial Intelligence", "Mobile Development", "Web Development", "Backend Development", "Open Source"],
     motto: "Learn, Create, Share, Repeat! 🔄"
 };
 ```
@@ -22,6 +23,12 @@ const nazirman = {
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
+
+### AI & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Mobile Development
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -59,12 +66,12 @@ const nazirman = {
   <img src="https://github-profile-trophy.vercel.app/?username=nazirxz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
-## 🎯 Fokus Saat Ini
+## 🎯 Current Focus
 
-- 📱 Mengembangkan aplikasi mobile yang inovatif
-- 🌱 Belajar teknologi terbaru dalam mobile development
-- 🤝 Berkontribusi pada proyek open source
-- 📝 Berbagi pengetahuan melalui proyek dan tutorial
+- 🤖 Building intelligent systems with AI
+- 📱 Developing innovative mobile applications
+- 🌐 Creating scalable web and backend solutions
+- 🤝 Contributing to open source projects
 
 ## 🔥 Streak & Activity
 
@@ -72,11 +79,11 @@ const nazirman = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazirxz&theme=tokyo-night&hide_border=true" />
 </div>
 
-## 💡 Quote Favorit
+## 💡 Favorite Quote
 
 > *"The best way to learn is by doing, and the best way to grow is by sharing what you've learned."*
 
-## 🤝 Mari Terhubung!
+## 🤝 Let's Connect!
 
 <div align="center">
 
@@ -93,7 +100,7 @@ const nazirman = {
   
   **"Always learning, always growing! 🚀"**
   
-  ⭐ **Jangan lupa untuk star repositories yang menarik!** ⭐
+  ⭐ **Don't forget to star interesting repositories!** ⭐
 </div>
 
 ---
